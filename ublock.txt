@@ -39,4 +39,7 @@ www.mt78lz.vip##DIV[class="darkgreen-ig-grid"]
 www.mt78lz.vip##DIV[class="darkgreen-v-header"]
 www.mt78lz.vip##DIV[class="darkgreen-lz-block"]
 t66y.com##A[style="cursor:pointer;color:#2f5fa1;"]
+www.renren.pro##div.module:first-child
+www.renren.pro##div.player-box-main>div:first-child
+www.renren.pro##.normal-title-wrap a
 
