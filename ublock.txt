@@ -1,4 +1,42 @@
 ! Apr 9, 2025 https://bbs.3dmgame.com
 bbs.3dmgame.com##center
 bbs.3dmgame.com##.a_cn
+www.mt150ti.cc##.header-container
+www.mt150ti.cc##[class^=top]
+www.mt150ti.cc##[class^=footer]
+www.zimuku.la##DIV[class="page-header prel"]
+www.huya.com##DIV[class="room-mod-ggTop"]
+www.huya.com##DIV[class="room-gg-chat"]
+www.rmdown.com##IMG
+golang.org##DIV[class="Header-banner"]
+pianyuan.la##DIV[class^="ADTOPLB"]
+b2v9.com##CENTER
+b2v9.com##DIV[id="left2ad"]
+b2v9.com##DIV[id="right2ad"]
+www.huya.com##DIV[class="room-gg-top"]
+www.8btjia.com##DIV[class="ADTOPLB_81"]
+924t.com##CENTER
+924t.com##DIV[id="left2ad"]
+924t.com##DIV[id="right2ad"]
+bbs.sex169.org##CENTER
+bbs.sex169.org##DIV[id="left2ad"]
+bbs.sex169.org##DIV[id="right2ad"]
+607u.com##CENTER
+607u.com##DIV[id="left2ad"]
+607u.com##DIV[id="right2ad"]
+activehlj.com##CENTER
+activehlj.com##DIV[id="left2ad"]
+activehlj.com##DIV[id="right2ad"]
+bbs.3dmgame.com##DIV[id="note"]
+bbs.3dmgame.com##div:has(.btnclose)
+bbs.3dmgame.com##div.a_cn
+169bbs.com##A[href="/AllRes/Fi11.html"]
+www.mt78lz.vip##DIV[class="container"]
+www.mt78lz.vip##DIV[class="header-container"]
+www.mt78lz.vip##DIV[class^="footer"]
+www.mt78lz.vip##DIV[class^="top"]
+www.mt78lz.vip##DIV[class="darkgreen-ig-grid"]
+www.mt78lz.vip##DIV[class="darkgreen-v-header"]
+www.mt78lz.vip##DIV[class="darkgreen-lz-block"]
+t66y.com##A[style="cursor:pointer;color:#2f5fa1;"]
 
