@@ -10,23 +10,10 @@ www.huya.com##DIV[class="room-gg-chat"]
 www.rmdown.com##IMG
 golang.org##DIV[class="Header-banner"]
 pianyuan.la##DIV[class^="ADTOPLB"]
-b2v9.com##CENTER
-b2v9.com##DIV[id="left2ad"]
-b2v9.com##DIV[id="right2ad"]
 www.huya.com##DIV[class="room-gg-top"]
 www.8btjia.com##DIV[class="ADTOPLB_81"]
-924t.com##CENTER
-924t.com##DIV[id="left2ad"]
-924t.com##DIV[id="right2ad"]
-bbs.sex169.org##CENTER
-bbs.sex169.org##DIV[id="left2ad"]
-bbs.sex169.org##DIV[id="right2ad"]
-607u.com##CENTER
-607u.com##DIV[id="left2ad"]
-607u.com##DIV[id="right2ad"]
-activehlj.com##CENTER
-activehlj.com##DIV[id="left2ad"]
-activehlj.com##DIV[id="right2ad"]
+
+
 bbs.3dmgame.com##DIV[id="note"]
 bbs.3dmgame.com##div:has(.btnclose)
 bbs.3dmgame.com##div.a_cn
@@ -42,4 +29,12 @@ t66y.com##A[style="cursor:pointer;color:#2f5fa1;"]
 www.renren.pro##div.module:first-child
 www.renren.pro##div.player-box-main>div:first-child
 www.renren.pro##.normal-title-wrap a
+
+bbs.sex169.org##CENTER
+bbs.sex169.org##DIV[id="left2ad"]
+bbs.sex169.org##DIV[id="right2ad"]
+169bbs.com##tbody[id^=stickthread]
+169bbs.com##div[class=a_p]
+||169bbs.com/data/attachment/common/cf/200927zeqvnqiyjrtyve4a.png$image
+169bbs.com##.textadlist > li
 
